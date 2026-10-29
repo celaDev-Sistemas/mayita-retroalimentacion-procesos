@@ -21,7 +21,7 @@ const VALID_DOMAINS = [
 ];
 
 // Webhook de n8n que guarda ESTA encuesta (flujo nuevo, distinto al de mayITa Proyectos).
-const N8N_WEBHOOK_URL = "https://celaque.app.n8n.cloud/webhook/16ede271-dd32-4bd9-bff7-0c9de38377ae;
+const N8N_WEBHOOK_URL = "https://celaque.app.n8n.cloud/webhook/16ede271-dd32-4bd9-bff7-0c9de38377ae";
 
 const N8N_RANKING_SAVE_URL =
   "https://celaque.app.n8n.cloud/webhook/mayita/ranking";
